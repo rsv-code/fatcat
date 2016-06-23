@@ -1,5 +1,3 @@
-#!/usr/bin/ic9
-
 // Include needed tools.
 include("util/ant.js");
 include("util/ant/javaTargets.js");
