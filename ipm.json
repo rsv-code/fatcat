@@ -1,0 +1,22 @@
+{
+	"name":"fatcat",
+	"version":"1.0.0",
+	"keyWords":["fatcat", "fat", "client", "webkit", "browser", "webview"],
+	"author":"Austin Lehman",
+	"authorEmail":"lehman.austin@gmail.com",
+	"org":"",
+	"license":"BSD 3-Clause License",
+	"licenseFile":"LICENSE",
+	"repo":"https://github.com/rsv-code/fatcat.git",
+	"bugs":"https://github.com/rsv-code/fatcat/issues",
+	"homePage":"https://github.com/rsv-code/fatcat",
+	"dependencies":[],
+	"devDependencies":[],
+	"tests":[],
+	"build":"build.js",
+	"install":{
+		"files": [
+			"stdjslib_fatcat"
+		]
+	}
+}
